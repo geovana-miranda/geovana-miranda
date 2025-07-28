@@ -3,8 +3,8 @@
 ### 👋 Sobre mim
 
 🎓 Estudante de Sistemas para Internet na PUC Minas  
-💡 Atualmente estudando: PHP 
 💻 Foco em desenvolvimento web   
+💡 Atualmente estudando: PHP   
 🔍 Em busca de uma oportunidade de estágio para mergulhar de vez no mundo dev!
 
 ### 🛠️ Tecnologias e Ferramentas
